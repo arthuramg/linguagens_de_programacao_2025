@@ -1,11 +1,10 @@
-1- 
-2-
-3-
-4-
-5-
-6-
-7-
-8-
-9-
-10-
-11-
+1- É o que define o comportamento daquela coisa, onde seta as caracterísitcas e atributos
+2- São instancias das classes
+3- São as caracteísitcas que são definidas dentro da classe, os comportamentos
+4- É o que define um comportamento perante algum evento ou alguma chamada
+5- São métodos que constroem a classe, onde você passa os parâmetros que eles irão construir daquela classe
+6- Cria um objeto com base na classe.
+7- O método construtor constroi a classe em quanto os outos atribuem comportamentos
+8- Quando se instancia a classe
+9- a) Lado 1, lado 2, lado 3, ângulo 1, 2 e 3
+   b) Área, perímetro e comprimento
